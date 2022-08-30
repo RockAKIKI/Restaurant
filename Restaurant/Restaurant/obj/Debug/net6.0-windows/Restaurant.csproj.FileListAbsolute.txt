@@ -1,0 +1,9 @@
+C:\Users\Administrateur\Desktop\Restaurant\Restaurant\obj\Debug\net6.0-windows\Restaurant.csproj.AssemblyReference.cache
+C:\Users\Administrateur\Desktop\Restaurant\Restaurant\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Administrateur\Desktop\Restaurant\Restaurant\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Administrateur\Desktop\Restaurant\Restaurant\obj\Debug\net6.0-windows\Restaurant_MarkupCompile.cache
+C:\Users\Administrateur\Desktop\Restaurant\Restaurant\obj\Debug\net6.0-windows\Restaurant_MarkupCompile.lref
+C:\Users\Administrateur\Desktop\Restaurant\Restaurant\obj\Debug\net6.0-windows\AddIng.g.cs
+C:\Users\Administrateur\Desktop\Restaurant\Restaurant\obj\Debug\net6.0-windows\AddRecipe.g.cs
+C:\Users\Administrateur\Desktop\Restaurant\Restaurant\obj\Debug\net6.0-windows\Command.g.cs
+C:\Users\Administrateur\Desktop\Restaurant\Restaurant\obj\Debug\net6.0-windows\ViewMenu.g.cs
